@@ -1,6 +1,6 @@
 ## A starter setup for webpack that hot reloads, compiles sass and js
 
-- **Drop this repo to add to a project workflow**
+- **Drop this repo into a project for a modern workflow**
 - **Compile Sass**
 - **Compile JS**
 
